@@ -1,12 +1,14 @@
 # Raptor_Wing
-Elbow-driven system for the Raptor Reloaded
+
 The files contained in this repository are for a derivative work that combines elements of the Raptor Reloaded hand, RIT arm with newly designed components for a mechanism to provide an interface between the RIT arm cuff and a standard Raptor Reloaded hand to allow said hand to be activated by elbow motion.
+
+This design was developed by UWB student and A4DI member Robby Shaffer in combination with A4DI's Ivan Owen.
 
 Apart from the new components, this work is a derivative of the following works, all but the last of which are from the e-NABLE Community (www.enablinthefuture.org):
 
-http://www.thingiverse.com/thing:596966 - Raptor Reloaded - e-NABLE designers
+http://www.thingiverse.com/thing:596966 - Raptor Reloaded - Re-mix and updated parts by Andreas Bastian
 
-http://www.thingiverse.com/thing:476403 - Raptor Hand - e-NABLE designers
+http://www.thingiverse.com/thing:476403 - Raptor Hand - Jeremy Simon, Andreas Bastian, Peter Binkley, Frankie Flood & Ivan Owen
 
 http://www.thingiverse.com/thing:261462 - Cyborg Beast - Dr. Jorge Zuniga & his Creighton U team
 
